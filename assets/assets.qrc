@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Cycle.png</file>
+        <file>File.png</file>
+        <file>Last.png</file>
+        <file>Next.png</file>
+        <file>Pause.png</file>
+        <file>Play.png</file>
+        <file>Random.png</file>
+        <file>sheep_black_sheep_grass.jpg</file>
+        <file>backg.jpg</file>
+    </qresource>
+</RCC>
